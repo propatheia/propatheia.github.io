@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container mt-3 mb-3">
+    <div class="row">
+        <div class="col-md-10 offset-md-1">
+            <div class="card shadow-sm rounded-1">
+                <div class="card-header">
+                    <h1 class="card-title">{{ .Title }}</h1>
+                    <p class="card-subtitle mb-2 fs-5 text-body-secondary">{{ .Summary }}</p>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-4 mb-3">
+                            {{ with .Param "image" }}
+                            <img src="{{ . }}" class="img-fluid shadow-sm rounded-1" alt="marcoferra.com">
+                            {{ end }}
+                        </div>
+                        <div class="col-lg-4">
+                            {{ with .GetPage "column-left" }}
+                            {{ .Content }}
+                            {{ end }}
+                        </div>
+                        <div class="col-lg-4">
+                            {{ with .GetPage "column-right" }}
+                            {{ .Content }}
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

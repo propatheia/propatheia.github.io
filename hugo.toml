@@ -1,0 +1,13 @@
+baseURL = 'https://marcoferra.com/'
+languageCode = 'en-us'
+title = 'marcoferra.com'
+
+theme = 'stardust'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[taxonomies]
+  category = ''
+  tags = ''
