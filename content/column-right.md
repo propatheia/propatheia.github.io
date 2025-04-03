@@ -4,6 +4,8 @@ draft = false
 title = 'This is the title'
 +++
 
-Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualidade (ISQ), one of Portugal's biggest private and independent engineering and technology companies. He was Head of the Electrical Calibration Laboratory, working closely with the automotive and aerospace industries.
+Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualidade (ISQ), one of Portugal’s most prominent private and independent engineering and technology companies. He was Head of the Electrical Calibration Laboratory, leading high-profile engineering teams and working closely with the automotive and aerospace industries (AS9100, ISO/IEC 17025).
 
-Marco holds an MSc in Electrical and Computer Engineering from the University of Lisbon and a postgraduate degree in Laboratory Management. He is also a Certified SAFe 6 Scrum Master, a Certified Lean Six Sigma Black Belt, and a Certified Coach Professional (CCP)
+Marco holds an MSc in Electrical and Computer Engineering from the University of Lisbon and a postgraduate degree in Laboratory Management. He is also a Certified SAFe 6 Scrum Master, a Certified Lean Six Sigma Black Belt, and a Certified Coach Professional (CCP).
+
+Marco has also been an ARPA member of the SDF Public Access UNIX System since 2005. He can be reached by writing to hello@marcoferra.com
