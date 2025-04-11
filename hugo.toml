@@ -4,10 +4,8 @@ title = 'marcoferra.com'
 
 theme = 'stardust'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+disableKinds = ['taxonomy', 'term']
 
-[taxonomies]
-  category = ''
-  tags = ''
+disableLiveReload = true
+
+disableHugoGeneratorInject = true

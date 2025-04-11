@@ -2,32 +2,32 @@
 
 <div class="container my-3">
 	<div class="row">
-		<div class="col-md-10 offset-md-1">
+		<div class="col-lg-10 offset-lg-1">
 			<div class="card">
 				<div class="card-header">
 					<h1 class="card-title">{{ .Title }}</h1>
-					<p class="card-subtitle fs-5 mb-2 text-body-secondary">
+					<p class="card-subtitle fs-5 text-body-secondary">
 						{{ .Summary }}
 					</p>
 				</div>
 				<div class="card-body">
 					<div class="row">
-						<div class="col-md-4">
-							{{ with .Param "images" }} {{ range . }}
+						<div class="col-lg-4">
+							{{ with .Params.coreimage }}
 							<img
 								src="{{ . }}"
-								class="img-fluid shadow-sm rounded-1"
-								alt="marcoferra.com"
+								class="img-fluid rounded-1 shadow-sm mb-3"
+								alt="{{ . }}"
 							/>
-							{{ end }} {{ end }}
+							{{ end }}
 						</div>
-						<div class="col-md-4">
-							{{ with .GetPage "column-left" }} {{ .Content }} {{
-							end }}
+						<div class="col-lg-4">
+							{{ with .Resources.GetMatch "column-left.md" }} {{
+							.Content }} {{ end }}
 						</div>
-						<div class="col-md-4">
-							{{ with .GetPage "column-right" }} {{ .Content }} {{
-							end }}
+						<div class="col-lg-4">
+							{{ with .Resources.GetMatch "column-right.md" }} {{
+							.Content }} {{ end }}
 						</div>
 					</div>
 				</div>
