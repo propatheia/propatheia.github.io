@@ -1,7 +1,7 @@
 +++
 date = '2025-04-11T11:53:22+01:00'
-draft = true
-title = 'Column Right'
+draft = false
+title = 'Bio 2 of 2'
 +++
 
 Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualidade (ISQ), one of Portugal’s biggest and independent engineering and technology companies. He was Head of the Electrical Calibration Laboratory, leading high-profile engineering teams and working closely with the automotive and aerospace industries (AS9100, ISO/IEC 17025).

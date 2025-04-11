@@ -1,6 +1,6 @@
 +++
 date = '2025-04-11T11:53:22+01:00'
-draft = true
+draft = false
 title = 'Marco Ferra'
 summary = '18+ years of global engineering'
 coreimage = 'marcoferra-growth.jpg'
