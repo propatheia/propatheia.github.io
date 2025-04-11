@@ -9,3 +9,7 @@ disableKinds = ['taxonomy', 'term']
 disableLiveReload = true
 
 disableHugoGeneratorInject = true
+
+[caches]
+   [caches.images]
+     dir = ':cacheDir/images'
