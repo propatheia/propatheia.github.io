@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Ferra on marcoferra.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Marco Ferra on marcoferra.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 22:17:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Column Right</title>
+      <link>http://localhost:1313/column-right/</link>
+      <pubDate>Thu, 10 Apr 2025 22:17:18 +0100</pubDate>
+      <guid>http://localhost:1313/column-right/</guid>
+      <description>&lt;p&gt;Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualidade (ISQ), one of Portugal’s biggest and independent engineering and technology companies. He was Head of the Electrical Calibration Laboratory, leading high-profile engineering teams and working closely with the automotive and aerospace industries (AS9100, ISO/IEC 17025).&lt;/p&gt;&#xA;&lt;p&gt;Marco holds an MSc in Electrical and Computer Engineering from the University of Lisbon and a postgraduate degree in Laboratory Management. He is also a Certified SAFe 6 Scrum Master, a Certified Lean Six Sigma Black Belt, and a Certified Coach Professional (CCP).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Column Left</title>
+      <link>http://localhost:1313/column-left/</link>
+      <pubDate>Thu, 10 Apr 2025 22:17:14 +0100</pubDate>
+      <guid>http://localhost:1313/column-left/</guid>
+      <description>&lt;p&gt;Marco Ferra is passionate about personal growth and making the world a better place.&lt;/p&gt;&#xA;&lt;p&gt;Since 2023, Marco has been &lt;a href=&#34;https://www.koalacoaching.com&#34;&gt;running online mentoring sessions&lt;/a&gt; focused on helping individuals achieve career and personal growth, inspired by his learning path across multiple highly demanding environments.&lt;/p&gt;&#xA;&lt;p&gt;Marco has lived in Portugal, and the United Kingdom, and his professional background spans diverse industries in multiple time zones. Marco is currently a Programme Manager at Sky. Before joining Sky, he was a Continuous Improvement Lead at Amgen, a Senior Project Manager at Hertz, and a Senior Management Consultant at New Angle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
