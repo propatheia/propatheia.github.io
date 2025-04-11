@@ -2,8 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <title>
-	{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
-	site.Title }}{{ end }}
+	{{- if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
+	site.Title }}{{ end -}}
 </title>
 
 <meta
@@ -11,9 +11,9 @@
 	content="{{ with .Description }}
 {{ . }}
 {{ else with .Site.Params.description }}{{ . }}
-{{ else }}
+{{ else -}}
 Learn more.
-{{ end }}
+{{- end -}}
 "
 />
 
@@ -32,11 +32,6 @@ Learn more.
 />
 
 <style>
-	// *
-	{
-		border: 1px solid blue;
-	}
-
 	h1,
 	p {
 		font-family:
@@ -46,7 +41,6 @@ Learn more.
 			"Segoe UI",
 			Roboto,
 			sans-serif;
-		font-optical-sizing: auto;
 		font-weight: 350;
 		font-style: normal;
 		line-height: 1.65em;
