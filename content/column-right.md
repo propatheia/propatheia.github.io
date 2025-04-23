@@ -8,4 +8,4 @@ Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualid
 
 Marco holds an MSc in Electrical and Computer Engineering from the University of Lisbon and a postgraduate degree in Laboratory Management. He is also a Certified SAFe 6 Scrum Master, a Certified Lean Six Sigma Black Belt, and a Certified Coach Professional (CCP).
 
-Marco is an ARPA member of the [SDF Public Access UNIX System](https://sdf.lonestar.org) and a regular donor to [UNICEF Portugal](https://www.unicef.pt).
+Marco is an ARPA member of the [SDF Public Access UNIX System](https://sdf.org) and a regular donor to [UNICEF Portugal](https://www.unicef.pt).
