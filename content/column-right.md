@@ -8,4 +8,4 @@ Earlier in his career, Marco spent 12 years with Instituto de Soldadura e Qualid
 
 Marco holds an MSc in Electrical and Computer Engineering from the University of Lisbon and a postgraduate degree in Laboratory Management. He is also a Certified SAFe 6 Scrum Master, a Certified Lean Six Sigma Black Belt, and a Certified Coach Professional (CCP).
 
-Marco is the author of [Teoria Musical](https://teoriamusical.marcoferra.com/), one of the few free online Portuguese books dedicated to music theory, an ARPA member of the [SDF Public Access UNIX System](https://sdf.org) and a regular donor to [UNICEF Portugal](https://www.unicef.pt).
+Marco is the author of [Teoria Musical](https://www.teoria-musical.com/), one of the few free online Portuguese books dedicated to music theory, an ARPA member of the [SDF Public Access UNIX System](https://sdf.org) and a regular donor to [UNICEF Portugal](https://www.unicef.pt).
