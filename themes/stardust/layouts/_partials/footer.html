@@ -1,0 +1,14 @@
+<div class="card-footer text-center">
+	<div>
+		{{ readFile .Params.logo | safeHTML }}
+		<span class="px-2">{{ site.Title }} 2017 &ndash; {{ now.Year }}</span>
+	</div>
+	<div>
+		<small class="text-body-secondary"
+			><a
+				href="https://github.com/propatheia/propatheia.github.io/blob/main/LICENSE"
+				>Code licensed MIT</a
+			></small
+		>
+	</div>
+</div>

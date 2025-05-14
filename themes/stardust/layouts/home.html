@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="card-body">
+  <div class="row">
+    <div class="col-lg-4">
+      {{ with .Resources.Get "column-left.md" }} {{ .Content }} {{ end }}
+    </div>
+    <div class="col-lg-4">
+      {{ with .Resources.Get "column-center.md" }} {{ .Content }} {{ end }}
+    </div>
+    <div class="col-lg-4">
+      {{ with .Resources.Get "column-right.md" }} {{ .Content }} {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

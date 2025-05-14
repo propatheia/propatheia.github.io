@@ -1,9 +1,28 @@
 +++
-date = '2025-04-11T11:53:22+01:00'
+date = '2025-05-13T13:31:41+01:00'
 draft = false
 title = 'Marco Ferra'
-summary = '18+ years of global engineering'
-coreimage = 'marcoferra-growth.jpg'
+description = '18+ years of global engineering'
+
+logo = '/assets/icons/mf.svg'
+
+extlinkstitle = 'Stronger together'
+
+[[extlinks]]
+	title = 'Book a 15-min video call'
+	link = 'https://calendly.com/marcoferra/discovery-call-15min'
+	icon = '/assets/icons/calendar-date.svg'
+
+[[extlinks]]
+	title = 'Koala Coaching'
+	link = 'https://www.koalacoaching.com'
+	icon = '/assets/icons/journal.svg'
+
+[[extlinks]]
+	title = 'mf@marcoferra.com'
+	link = 'mailto:mf@marcoferra.com'
+	icon = '/assets/icons/inbox.svg'
+
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi eu sodales libero venenatis libero sollicitudin aliquet sit tempus convallis curabitur lectus nisl. Mollis inceptos hac dignissim a habitant class suscipit eget metus adipiscing class. Quis dolor turpis fringilla egestas nibh volutpat tristique nunc dapibus urna ultricies. Cursus libero neque vitae turpis vestibulum mi rutrum vulputate fringilla himenaeos.
+Operational excellence in highly-regulated environments. Sometimes a musician. From Portugal.

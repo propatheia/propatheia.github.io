@@ -1,15 +1,22 @@
-baseURL = 'https://marcoferra.com/'
+baseURL = 'https://www.marcoferra.com/'
 languageCode = 'en-us'
-title = 'marcoferra.com'
+title = 'Marco Ferra'
 
 theme = 'stardust'
 
 disableKinds = ['taxonomy', 'term']
 
-disableLiveReload = true
-
 disableHugoGeneratorInject = true
 
+[params]
+	description = '18+ years of global engineering and operational excellence in highly demanding environments. Sometimes a musician. From Portugal'
+
+[params.favicon]
+	favicon_16x16 = 'favicon-96x96.png'
+	favicon_svg = 'favicon.svg'
+	favicon_ico = 'favicon.ico'
+	apple_touch_icon = 'apple-touch-icon.png'
+
 [caches]
-   [caches.images]
-     dir = ':cacheDir/images'
+	[caches.images]
+		dir = ':cacheDir/images'

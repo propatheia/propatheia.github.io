@@ -1,0 +1,23 @@
+<div class="card-header">
+	<div class="row">
+		<div class="col-lg-6">
+			<h1 class="display-5">{{ .Title }}</h1>
+			<p class="lead">{{ .Description }}</p>
+
+			{{ .Content }}
+		</div>
+		<div class="col-lg-6">
+			<h2 class="display-6 fs-3">{{ .Params.extlinkstitle }}</h2>
+
+			<ul class="list-group">
+				{{ range .Params.extlinks }}
+				<li class="list-group-item p-1 border-0 bg-transparent">
+					<a class="icon-link" href="{{ .link }}">
+						{{ readFile .icon | safeHTML }} {{ .title }}
+					</a>
+				</li>
+				{{ end }}
+			</ul>
+		</div>
+	</div>
+</div>
