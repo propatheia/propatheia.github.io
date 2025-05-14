@@ -10,4 +10,4 @@ Marco holds an MSc in Electrical and Computer Engineering from the University of
 
 Marco is the author of [Teoria Musical](https://www.teoria-musical.com/), one of the few free online Portuguese resources dedicated to music theory.
 
-Marco is also an ARPA member of the [SDF Public Access UNIX System](https://sdf.org/) and a regular donor to [UNICEF Portugal](https://www.unicef.pt/).
+Marco is also an ARPA member of the [SDF Public Access UNIX System](https://sdf.org/) and a regular donor and member of the Portuguese committee for [UNICEF Portugal](https://www.unicef.pt/).
