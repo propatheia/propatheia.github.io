@@ -4,4 +4,4 @@ draft = false
 title = 'Column Left'
 +++
 
-{{< image "marcoferra-growth.jpg" "Marco Ferra Growth Photo" >}}
+{{< image "marcoferra-growth.webp" "Marco Ferra Growth Photo" >}}
