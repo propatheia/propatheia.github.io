@@ -4,6 +4,8 @@ title = 'Marco Ferra'
 
 theme = 'stardust'
 
+enableRobotsTXT = true
+
 disableKinds = ['taxonomy', 'term']
 
 disableHugoGeneratorInject = true
